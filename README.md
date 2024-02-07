@@ -7,3 +7,5 @@
 - Vanilla CSS
 - Javascript
 - HTML
+## Description
+The purpose of this excersice was to demonstrate html form functionality and to practice CSS and javascript skills previously learned in The Odin Project cirriculum.  Javascript was used to validate that the passwords match.  More details on the project can be found <a href="https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form#project-solution">here</a>
